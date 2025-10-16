@@ -1,0 +1,13 @@
+//https://www.codechef.com/problems/FIZZBUZZ2301
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	int a,b,c;
+	cin>>a>>b>>c;
+	if(a>b && a>c){
+	    cout<<"Yes"<<endl;
+	}
+	else cout<<"No"<<endl;
+
+}
