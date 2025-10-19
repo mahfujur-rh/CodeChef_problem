@@ -3,7 +3,7 @@
 using namespace std;
 int main () {
     int x;cin>>x;
-    if (x>=12)      // x suto holey--output-- No 
+    if (x>=12)      
     {
         cout<<"Yes"<<endl;
     }
